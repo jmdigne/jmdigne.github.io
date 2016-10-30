@@ -20,7 +20,7 @@ description: "A single-page template for Jekyll based blogs (like what you'd use
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -32,7 +32,12 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  palette0:  '#5c5c5c'
+  palette1:  '#061012'
+  palette2:  '#0e2529'
+  palette3:  '#163b41'
+  palette4:  '#1e5059'
+  palette5:  '#266672'
 
 kramdown:
   auto_ids:  false
-
